@@ -29,11 +29,6 @@
   <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
 
-🚀 My Journey — 90 Days Roadmap
-
-PhaseGoalStatusMonth 1HTML + CSS + JavaScript🔥 In ProgressMonth 2React + Big Project⏳ Coming SoonMonth 3AI App + Portfolio + CV⏳ Coming Soon
-
-
 📂 Projects
 
 
