@@ -1,24 +1,28 @@
 # Hey, I'm Abdallah Zoair 👋
 
-CS student at Tanta University — currently in "learn everything, ship something" mode.
-
-Background in C++, C#, and a detour through game dev with Unity
-(yes, I made things move on a screen — it counts).
-
-Now focused on Python & Backend. Building in public, one commit at a time.
+> Computer Science student at Tanta University.  
+> Currently in *"learn everything, break everything, fix it"* mode.
 
 ---
 
-🛠 **Stack (so far)**
-- Python 🐍
-- C++ / C# (from the game dev era)
-- Git & GitHub (you're literally on it right now)
+## 🛠 Stack
 
-📌 **Currently**
-- Following a 90-day Python Backend + AI roadmap
-- Writing code that works (most of the time)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-> *"Every expert was once a beginner."*
-> — someone who probably struggled with loops too
+## 📌 Currently
+
+- 🗺️ Following a 90-day Python Backend + AI roadmap
+- ✍️ Writing code that works *(most of the time)*
+- 📚 Learning in public — one commit at a time
+
+---
+
+> *"Every expert was once a beginner."*  
+> — someone who definitely struggled with loops too 🙂
