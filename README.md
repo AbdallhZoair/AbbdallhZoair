@@ -23,8 +23,6 @@
 
 ---
 
-> *"Every expert was once a beginner."*  
-> — someone who definitely struggled with loops too 🙂
 
 ## 📊 GitHub Stats
 
