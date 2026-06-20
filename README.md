@@ -25,3 +25,9 @@
 
 > *"Every expert was once a beginner."*  
 > — someone who definitely struggled with loops too 🙂
+
+## 📊 GitHub Stats
+
+![Abdallah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdallhZoair&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallhZoair&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=AbdallhZoair&theme=tokyonight&hide_border=true)
