@@ -1,0 +1,27 @@
+B="Y"
+win = 0
+lose = 0
+
+while(B=="Y"):
+
+ A = input("\ngess the number between 1 and 10 : ") #the Right number is 7
+
+ if int (A)==7:
+  print("Your are Right homie it's 7")
+  win+=1
+ 
+ elif int (A)==8 :
+  print("look , You're almost there")
+  lose+=1
+
+ elif int (A)==6 :
+  print("look , You're almost there")
+  lose+=1
+ 
+ else:
+  print("GG homie")
+  lose+=1
+
+ B=input("want play again? (Y,N)")
+
+print(f"\nnow you:\nwin  {win} tims\nlose : {lose} tims")
